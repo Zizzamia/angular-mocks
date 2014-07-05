@@ -1,4 +1,4 @@
-### Angular Mocks v1.2.18 ###
+### Angular Mocks v1.2.19 ###
 
 Npm package for ```angular-mocks.js```, The source for this module is in the
 [main AngularJS repo](https://github.com/angular/angular.js/tree/master/src/ngMock).

@@ -1,0 +1,22 @@
+{
+  "name": "angular-mocks",
+  "version": "1.2.20",
+  "description": "Npm package for angular-mocks.js",
+  "main": "angular-mocks.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zizzamia/angular-mocks.git"
+  },
+  "keywords": [
+    "angular",
+    "mocks",
+    "angularjs",
+    "testing"
+  ],
+  "author": "zizzamia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zizzamia/angular-mocks/issues"
+  },
+  "homepage": "https://github.com/Zizzamia/angular-mocks"
+}

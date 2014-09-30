@@ -14,7 +14,7 @@
     "testing"
   ],
   "author": "zizzamia",
-  "contributors": "David Wippel <david@trigo.at> (https://github.com/kelkes)",
+  "contributors": "kelkes",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Zizzamia/angular-mocks/issues"
